@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:myapp/widgets/segunda.dart';
 
 // --- PAGINA 1: INICIO ---
 class PaginaInicial extends StatelessWidget {
