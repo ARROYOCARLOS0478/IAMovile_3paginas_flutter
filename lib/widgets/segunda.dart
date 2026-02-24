@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/widgets/decoracion.dart';
 
 
 // --- PAGINA 2: SEGUNDA ---
